@@ -1,0 +1,14 @@
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\bin\Debug\netcoreapp3.1\ConsoleAppTestBuild.exe
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\bin\Debug\netcoreapp3.1\ConsoleAppTestBuild.deps.json
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\bin\Debug\netcoreapp3.1\ConsoleAppTestBuild.runtimeconfig.json
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\bin\Debug\netcoreapp3.1\ConsoleAppTestBuild.runtimeconfig.dev.json
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\bin\Debug\netcoreapp3.1\ConsoleAppTestBuild.dll
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\bin\Debug\netcoreapp3.1\ConsoleAppTestBuild.pdb
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.csproj.AssemblyReference.cache
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.GeneratedMSBuildEditorConfig.editorconfig
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.AssemblyInfoInputs.cache
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.AssemblyInfo.cs
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.csproj.CoreCompileInputs.cache
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.dll
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.pdb
+D:\LKG FOR IT\folderrepo\basicdevopsrepo\ConsoleAppTestBuild\ConsoleAppTestBuild\obj\Debug\netcoreapp3.1\ConsoleAppTestBuild.genruntimeconfig.cache

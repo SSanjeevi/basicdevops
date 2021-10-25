@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d11c00a-3c41-43a2-aa31-3476166680bd": {
+      "ProjectGuid": "1d11c00a-3c41-43a2-aa31-3476166680bd",
+      "DisplayName": "ConsoleAppTestBuild",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
